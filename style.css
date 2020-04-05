@@ -1,0 +1,8 @@
+.post{
+    display: block;
+    background: blanchedalmond;
+    padding: 10px;
+    margin: 20px 10px;
+    border: 1px solid black;
+    width: 150px;
+}
